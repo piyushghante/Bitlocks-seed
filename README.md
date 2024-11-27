@@ -55,7 +55,7 @@
 ## 📂 Technology Stack
 | **Category**     | **Technologies**                                               |
 |-------------------|---------------------------------------------------------------|
-| **Backend**       | Python (Streamlit), MySQL                                     |
+| **Backend**       | Python (Streamlit), MySQL, Node                               |
 | **Frontend**      | Streamlit with custom CSS for enhanced UI/UX                  |
 | **Blockchain**    | IPFS for decentralized storage, NFT support                   |
 
