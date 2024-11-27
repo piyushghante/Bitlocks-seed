@@ -42,12 +42,12 @@
 
 ### Encryption Flow
 <p align="center">
-  <img src="encryption.png" alt="Encryption Architecture" width="80%">
+  <img src="Decryption.png" alt="Encryption Architecture" width="80%">
 </p>
 
 ### Decryption Flow
 <p align="center">
-  <img src="Decryption.png" alt="Decryption Architecture" width="80%">
+  <img src="encryption.png" alt="Decryption Architecture" width="80%">
 </p>
 
 ---
